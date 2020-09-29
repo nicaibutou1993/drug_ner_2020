@@ -10,7 +10,6 @@ from keras.layers import Input, Dense
 from keras.models import Model
 import numpy as np
 
-
 maxlen = 256
 batch_size = 16
 # bert配置
